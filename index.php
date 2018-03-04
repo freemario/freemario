@@ -1,0 +1,222 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>#FreeMario</title>
+</head>
+
+<body>
+
+    <body>
+
+        <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light" id="hero">
+        </div>
+        <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
+            <div class="col-md-7 p-lg-5 mx-auto my-5">
+                <p class="lead font-weight-normal">
+                    Il 04.03.2018 sono stati oscurati dal web gli articoli e il pensiero di Mario Lamanuzzi. <br /> In questa pagina li rendiamo nuovamente accessibili attraverso il servizio web.archive.org.
+                </p>
+            </div>
+        </div>
+        <div class="col-md-7 p-lg-5 mx-auto my-5" id="articles">
+            <div class="card">
+                <ul class="list-group list-group-flush">
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303182723/https://webcache.googleusercontent.com/search?q=cache:vXcge8REyqMJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/il-ritratto-di-messina-e-il-gruzzolo-da-200-000-euro-per-la-corte-dei-conti/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>﻿Il ritratto di Messina e il gruzzolo da 200.000 euro per la Corte dei Conti</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303163853/https://webcache.googleusercontent.com/search?q=cache:n8aj_YI30EsJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/storie-di-bancarotta-fraudolenta-e-usura-la-testimonianza-di-pasquale-simone/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Storie di&nbsp;bancarotta&nbsp;fraudolenta e usura, la testimonianza di Pasquale Simone</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303164027/https://webcache.googleusercontent.com/search?q=cache:Zkc1EqX0pjoJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/la-strage-silenziosa-dell-uranio-impoverito-e-l-abitudine-alla-verita/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>La strage silenziosa dell'uranio impoverito e l'abitudine alla verità</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303164248/https://webcache.googleusercontent.com/search?q=cache:QN4Vvx0QoloJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/acchio-la-rette-la-guerra-agli-zozzoni-anche-fuori-dalle-forme-convenzionali/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Acchiò la rètte, la guerra agli zozzoni anche fuori dalle forme convenzionali</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303164351/https://webcache.googleusercontent.com/search?q=cache:GKVStmapsRYJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/la-asl-che-non-trova-un-canile-in-tutta-la-bat-la-gara-che-forse-si-fara-e-le-ricerche-su-google/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>La Asl che non trova un canile in tutta la Bat, la gara che forse si farà e le ricerche su Google</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303164531/https://webcache.googleusercontent.com/search?q=cache:7P1flIye0hQJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/piu-poveri-o-piu-evasori-il-reddito-medio-pro-capite-e-il-pollo-di-trilussa/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Più poveri o più evasori? il reddito medio pro-capite e il pollo di Trilussa</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303164652/https://webcache.googleusercontent.com/search?q=cache:hJ6Z_kcsDjMJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/quanto-giocano-i-biscegliesi-alle-slot-e-le-scelte-irrazionali/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Quanto giocano i biscegliesi alle slot e le scelte irrazionali</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303164804/https://webcache.googleusercontent.com/search?q=cache:a2ertr5qtNYJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/e-paghele-re-spaise-sentirsi-migliori-non-e-sempre-cosa-buona/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>«...e paghele re spaise!». Sentirsi migliori non è sempre cosa buona</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303164909/https://webcache.googleusercontent.com/search?q=cache:MUNRzmN46D8J:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/lo-scioglimento-anticipato-delle-camere-e-la-manovra-limitata-di-un-ex-sindaco/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Lo scioglimento anticipato delle camere e la manovra limitata di un ex sindaco</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303165027/https://webcache.googleusercontent.com/search?q=cache:_4fOjjbzNIMJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/socio-privato-pure-di-maggioranza-cercasi-per-bisceglie-approdi/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Socio privato (pure di maggioranza) cercasi per Bisceglie Approdi</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303165117/https://webcache.googleusercontent.com/search?q=cache:WWPO1V6JsKUJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/la-zona-industriale-e-un-ammissione-di-colpa-da-26-milioni-di-euro/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>La zona industriale e un'ammissione di colpa da 26 milioni di euro</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303165204/https://webcache.googleusercontent.com/search?q=cache:uU9phM4CjUoJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/andare-per-ristoranti-con-gli-amici-di-emilianolandia/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Andare per ristoranti con gli amici di Emilianolandia</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303165314/https://webcache.googleusercontent.com/search?q=cache:EaquaoZXNyIJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/due-aziende-legate-da-un-filo-e-la-madre-di-tutte-le-minchiate-sui-rifiuti/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Due aziende legate da un filo e la madre di tutte le minchiate sui rifiuti</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303165357/https://webcache.googleusercontent.com/search?q=cache:3x4mGoBXaIYJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/l-aria-inquinata-che-tira-a-bisceglie/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>L'aria (inquinata?) che tira a Bisceglie</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303165459/https://webcache.googleusercontent.com/search?q=cache:rvBzJEs9uAoJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/il-grande-affare-e-la-grande-vergogna-per-quei-bambini-oltre-i-cancelli-di-via-bovio/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Il grande affare e la grande vergogna per quei bambini oltre i cancelli di via Bovio</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303182352/https://webcache.googleusercontent.com/search?q=cache:wxzAVTw3Z0EJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/il-facente-finzione-non-c-e-refuso-e-l-invadente-decaduto/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Il facente finzione (non c'è refuso) e l'invadente decaduto</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303182457/https://webcache.googleusercontent.com/search?q=cache:xi8buZecJl4J:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/quando-tutto-quello-che-si-vuole-e-il-ritorno-con-omaggio-musicale/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Quando tutto quello che si vuole è il ritorno (con omaggio musicale)</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303182632/https://webcache.googleusercontent.com/search?q=cache:ztRtnJHDngUJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/lu-stess-emma-esse-ditte-quattro-parole-biscegliesi-sul-giudizio/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>«Lu stess èmma èsse ditte», quattro parole biscegliesi sul giudizio</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303182819/https://webcache.googleusercontent.com/search?q=cache:ZsYlisYtniMJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/scuole-energia-calore-disperso-che-fine-ha-fatto-la-cofely/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Scuole, energia, calore disperso. Che fine ha fatto la Cofely</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303183006/https://webcache.googleusercontent.com/search?q=cache:4WZIpnO2aMsJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/discariche-piene-e-rifiuti-che-arrivano-il-caso-lamadattola/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Discariche piene e rifiuti che arrivano. Il caso Lamadattola</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303183120/https://webcache.googleusercontent.com/search?q=cache:-IJzEd3CT_kJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/andavamo-tutti-dalla-signora/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Andavamo tutti dalla Signora</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303183215/https://webcache.googleusercontent.com/search?q=cache:B-VI9I70TsIJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/la-legge-di-bilancio-e-i-maturi-invisibili/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>La legge di bilancio e i maturi invisibili</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303183445/https://webcache.googleusercontent.com/search?q=cache:bzopP4GxLvkJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/dopo-le-famiglie-le-attivita-lavorative-come-si-muove-la-droga-oggi/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Dopo le famiglie le attività lavorative, come si muove la droga oggi</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303183533/https://webcache.googleusercontent.com/search?q=cache:zx8Zngvhzy4J:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/i-paradossi-nella-storia-di-umberto-paternostro-e-la-sua-preghiera-laica/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>I paradossi nella storia di Umberto Paternostro e la sua preghiera laica</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303183709/https://webcache.googleusercontent.com/search?q=cache:AF63ZaJvGRoJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/il-missionario-biscegliese-ingegnere-e-con-la-musica-nel-cuore/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Il missionario biscegliese ingegnere e con la musica nel cuore</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303183750/https://webcache.googleusercontent.com/search?q=cache:bdaTwan4BrMJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/il-nuovo-inizio-della-normalita-alla-cdp/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Il nuovo inizio della normalità alla Cdp</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303183911/https://webcache.googleusercontent.com/search?q=cache:bxyi7IBJrLYJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/dei-pali-abbattuti-e-dei-pali-in-eccesso/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Dei pali abbattuti e dei pali in eccesso</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303184000/https://webcache.googleusercontent.com/search?q=cache:_l0sshrezCsJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/la-faccia-di-cui-loro-sono-dotati-e-i-costi-della-decadenza/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>La faccia di cui loro sono dotati e i costi della decadenza</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303184044/https://webcache.googleusercontent.com/search?q=cache:kNXoi5XPPsMJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/alga-tossica-le-analisi-dell-arpa-che-non-servono/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Alga tossica, le analisi dell'Arpa che non servono</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303184129/https://webcache.googleusercontent.com/search?q=cache:VHls0CqLKWoJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/gli-spilli-negli-occhi-e-quella-mano-sulla-testa-che-non-fa-emergere/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Gli spilli negli occhi e quella mano sulla testa che non fa emergere</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303184224/https://webcache.googleusercontent.com/search?q=cache:lwE0QMogTwcJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/le-tardive-scoperte-musicali-e-le-aggressioni-alla-quiete-pubblica-con-omaggio-video/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Le tardive scoperte musicali e le aggressioni alla quiete pubblica (con omaggio video)</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303184304/https://webcache.googleusercontent.com/search?q=cache:viJ0emisdS8J:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/lo-schema-semplice-e-quelli-del-fortino-a-palazzo-san-domenico-1/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Lo schema semplice e quelli del fortino a Palazzo San Domenico</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303184342/https://webcache.googleusercontent.com/search?q=cache:Qa9txtWvw-sJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/se-da-bisceglie-i-giovani-non-se-ne-vanno/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Se da Bisceglie i giovani non se ne vanno</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303184521/https://webcache.googleusercontent.com/search?q=cache:4eksSHXTW5cJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/un-coso-costoso-e-altri-insulti-ai-diversamente-abili/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Un coso costoso e altri insulti ai diversamente abili</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303184635/https://webcache.googleusercontent.com/search?q=cache:4wlQjIejUdYJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/le-patatine-che-salvano-la-vita-le-vendette-trasversali-i-proiettili-vaganti/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Le patatine che salvano la vita, le vendette trasversali, i proiettili vaganti</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303184716/https://webcache.googleusercontent.com/search?q=cache:oZ-y4BwZU00J:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/l-antimafia-ci-dice-che-i-clan-baresi-non-hanno-lasciato-bisceglie/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>L'Antimafia ci dice che i clan baresi non hanno lasciato Bisceglie</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303184815/https://webcache.googleusercontent.com/search?q=cache:rjctf2q4BigJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/al-mare-di-ripalta-scopri-un-mondo-per-tutti-video/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Al mare di Ripalta scopri "Un Mondo per Tutti"</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303184852/https://webcache.googleusercontent.com/search?q=cache:nXkV8jwFO-EJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/dategli-un-aereo/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Dategli un aereo</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303184935/https://webcache.googleusercontent.com/search?q=cache:tOwOtDkWteAJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/i-pali-abbattuti-e-la-lotta-alle-deroghe-auto-concesse-in-via-aldo-moro/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>I pali abbattuti e la lotta alle deroghe auto-concesse in via Aldo Moro</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303185041/https://webcache.googleusercontent.com/search?q=cache:ZYMmS5s2ZOUJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/partono-le-ingiunzioni-di-pagamento-per-i-conguagli-alla-167-la-melina-legale-continua/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Partono le ingiunzioni di pagamento per i conguagli alla 167. La melina legale </li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303185116/https://webcache.googleusercontent.com/search?q=cache:1m6c-ybSTBEJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/se-la-sanita-lascia-i-vuoti/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Se la sanità lascia i vuoti</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303185209/https://webcache.googleusercontent.com/search?q=cache:6lFV913WIXwJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/il-2018-vicino-per-tutti/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Il 2018 vicino per tutti</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303185300/https://webcache.googleusercontent.com/search?q=cache:xHl1Sb8qgoMJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/i-fatti-che-non-sono-fatti-e-il-fatto-di-alcuni-semafori-non-funzionanti/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>I fatti che non sono fatti e il fatto di alcuni semafori non funzionanti</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303185402/https://webcache.googleusercontent.com/search?q=cache:OMEXxA4_NxcJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/sbattersene-di-battiti-e-avere-lo-stesso-un-ottima-estate-biscegliese/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Sbattersene di Battiti e avere lo stesso un'ottima estate biscegliese</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303185503/https://webcache.googleusercontent.com/search?q=cache:g-CV12mkD7UJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/una-spiegazione-a-emiliano-e-una-nuova-era-criminale/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Una spiegazione a Emiliano e una nuova era criminale</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303185822/https://webcache.googleusercontent.com/search?q=cache:1hVAqSGZtDAJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/tutto-quello-che-puo-dare-l-azzeramento-dell-ecotassa/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Tutto quello che può dare l'azzeramento dell'ecotassa</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303185900/https://webcache.googleusercontent.com/search?q=cache:KaT1pCNre4QJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/le-tragedie-con-i-mondi-in-collisione/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Le tragedie con i mondi in collisione</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303190007/https://webcache.googleusercontent.com/search?q=cache:7FMvsQxCfFYJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/e-invece-la-tari-aumenta-tutto-irrisolto-sui-rifiuti/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>...e invece la Tari aumenta. Tutto irrisolto sui rifiuti</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303190049/https://webcache.googleusercontent.com/search?q=cache:74WHPuu4bVQJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/la-scoperta-di-un-opera-sociale-alle-tre-pompe/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>La scoperta di un'opera sociale alle Tre Pompe</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303190049/https://webcache.googleusercontent.com/search?q=cache:74WHPuu4bVQJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/la-scoperta-di-un-opera-sociale-alle-tre-pompe/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Acque reflue sotto terra, l'unico vantaggio possibile</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303190207/https://webcache.googleusercontent.com/search?q=cache:MXXXtKz0w9wJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/stanno-tutti-a-tremila-il-dilemma-delle-elezioni-amministrative-nel-2018/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Stanno tutti a tremila, il dilemma delle elezioni amministrative nel 2018</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303190241/https://webcache.googleusercontent.com/search?q=cache:UdNFbwTihP4J:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/le-canne-e-il-futuro-dell-economia-biscegliese/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Le canne e il futuro dell'economia biscegliese</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303190358/https://webcache.googleusercontent.com/search?q=cache:qnf1Mbvbf1kJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/i-bravi-avvocati-e-il-cerchio-che-si-chiude-nei-tribunali/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>I bravi avvocati e il cerchio che si chiude nei tribunali</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303190446/https://webcache.googleusercontent.com/search?q=cache:vn4T07ccwJoJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/pass-a-cascill-i-mini-rettangoli-del-destino-e-la-festa-con-giorgio/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>"Pass a Cascill", i mini-rettangoli del destino e la festa con Giorgio</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303190541/https://webcache.googleusercontent.com/search?q=cache:dl_weykttekJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/nella-provincia-e-nella-citta-dove-si-sopravvive-lavorando/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>Nella provincia e nella città dove si sopravvive lavorando</li>
+                    </a>
+                    <a target="_blank" class="list-group-item" href="https://web.archive.org/web/20180303190644/https://webcache.googleusercontent.com/search?q=cache:hVI9XxfbBIIJ:https://www.bisceglieviva.it/rubriche/ste-u-maere-a-vescegghie/la-festa-del-pd-e-la-scadenza-del-15-settembre/+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=it&amp;lr=lang_en%7Clang_it">
+                        <li>La festa del PD e la scadenza del 15 settembre</li>
+                    </a>
+                </ul>
+            </div>
+        </div>
+        <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
+            <div class="col-md-7 p-lg-5 mx-auto my-5">
+                <h1 class="display-4 font-weight-normal">Non sono d'accordo con quello che dici, ma darei la vita perché tu possa dirlo</h1>
+                <p class="lead font-weight-normal">
+                    Evelyn Beatrice Hall
+                    <br />
+                    <br />
+                    <br />
+                </p>
+                <div class="sharethis-inline-share-buttons"></div>
+            </div>
+        </div>
+        <!-- Optional JavaScript -->
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+        <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a9b38ca7a11530013244632&product=inline-share-buttons"></script>
+    </body>
+
+</html>
